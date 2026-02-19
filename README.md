@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Bhavjot Singh and I'm a Full Stack Web Developer..</h2>
+<h2 align="left">Hi 👋! My name is Bhavjot Singh and I'm a Java Backend Developer..</h2>
 
 ###
 
